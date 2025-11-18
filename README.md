@@ -1,4 +1,9 @@
-💻 João Victor | 24 anos | Estudante de Análise e Desenvolvimento de Sistemas
-🔧 Desenvolvedor Júnior com foco em Java e C#
-🛠️ Conhecimento em .NET, Spring Boot, APIs REST e SQL
-📚 Estudando backend, estrutura de projetos e boas práticas de desenvolvimento
+💻 Desenvolvedor Júnior Front-end com foco em criar interfaces de usuário dinâmicas e responsivas.
+
+🛠️ Foco Principal: HTML5, CSS3 (SASS/SCSS), e JavaScript (ES6+).
+
+✨ Habilidades em Destaque: Design Responsivo (Mobile First), Manipulação de DOM e Versionamento (Git/GitHub).
+
+📚 Próximos Passos: Aprofundamento em ReactJS (ou outra biblioteca/framework) e otimização de performance.
+
+🔧 Experiência Adicional: Atualmente trabalho como Técnico de TI, trazendo uma base sólida em suporte e infraestrutura.
