@@ -54,9 +54,3 @@ Buscando oportunidade como **Desenvolvedor Front-End Jr.**, **Analista de Sistem
 - **E-mail:** victordev373@gmail.com
 - **LinkedIn:** [/in/joão-victor-silva](https://www.linkedin.com/in/jo%C3%A3o-victor-silva-b97821345/)
 - **Instagram:** [@victor.prgm](https://www.instagram.com/victor.prgm)
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victordev373&show_icons=true&theme=default&hide_title=true)
-
-</div>
