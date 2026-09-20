@@ -1,75 +1,62 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e1a,50:39104a,100:0a0e1a&height=200&section=header&text=JO%C3%83O%20VICTOR&fontSize=48&fontColor=ff2e6d&fontAlignY=42&desc=front-end%20developer&descAlignY=62&descSize=16&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=%3E+carregando+fita.vhs...;%3E+temporada%3A+front-end;%3E+status%3A+em+maratona+de+c%C3%B3digo" alt="typing" />
+# Olá, eu sou o João Victor 👋
+
+### Desenvolvedor Front-End | Santarém, PA — Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-silva-b97821345/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/victor.prgm)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victordev373@gmail.com)
+
 </div>
 
-<br>
+---
 
-## EP. 01 — Sinopse
+## Sobre mim
 
-Front-end developer formado em Análise e Desenvolvimento de Sistemas (Fametro). Construo interfaces com HTML, CSS e JavaScript, e estou na saga de aprender SQL para lidar com dados de verdade.
+Desenvolvedor Front-End formado em Análise e Desenvolvimento de Sistemas (Fametro). Construo interfaces com HTML, CSS e JavaScript e estou aprofundando SQL para trabalhar com dados reais em projetos de produção.
 
-Assim como todo bom protagonista, ainda estou no arco de treinamento — mas já sei onde a história vai dar.
+Atualmente desenvolvo sites e landing pages para clientes reais (agência de viagens, comércio local) e busco minha primeira oportunidade formal em TI, nas áreas de Desenvolvimento Web, Suporte ou Análise de Sistemas.
 
-| | |
-|---|---|
-| **Base** | Santarém, PA — Brasil |
-| **Classe** | Front-End Developer |
-| **Arma principal** | JavaScript |
-| **Modo** | Dark, sempre |
+## 🛠️ Tecnologias
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## EP. 02 — Stack de batalha
+## 📌 Projetos em destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0a0e1a?style=flat-square&logo=html5&logoColor=ff2e6d&labelColor=0a0e1a"/>
-  <img src="https://img.shields.io/badge/CSS3-0a0e1a?style=flat-square&logo=css3&logoColor=00e5ff&labelColor=0a0e1a"/>
-  <img src="https://img.shields.io/badge/JavaScript-0a0e1a?style=flat-square&logo=javascript&logoColor=ffb703&labelColor=0a0e1a"/>
-  <img src="https://img.shields.io/badge/SQL-0a0e1a?style=flat-square&logo=mysql&logoColor=00e5ff&labelColor=0a0e1a"/>
-  <img src="https://img.shields.io/badge/Git-0a0e1a?style=flat-square&logo=git&logoColor=ff2e6d&labelColor=0a0e1a"/>
-</p>
+### [Quero+ Viagens](https://github.com/Victordev373/quero-mais-viagens)
+Landing page responsiva para agência de viagens, com domínio próprio e foco em conversão.
+`HTML` `CSS` `JavaScript`
 
-<br>
+### [Serve Saúde](https://github.com/Victordev373/serve-saude)
+Landing page para comércio de produtos hospitalares e laboratoriais, com foco em SEO local.
+`HTML` `CSS` `JavaScript`
 
-## EP. 03 — Arco de projetos
+### [Front-End Lab](https://github.com/Victordev373/Projeto-FrontEnd-Lab)
+Laboratório de estudos de Front-End, do zero ao avançado, com exercícios guiados.
+`HTML` `CSS` `JavaScript`
 
-**quero-mais-viagens**
-Landing page responsiva estilo Linktree para agência de viagens
-→ [ver repositório](https://github.com/Victordev373/quero-mais-viagens)
+### [Portfólio pessoal](https://github.com/Victordev373/portfolio)
+Site pessoal com apresentação, habilidades e projetos.
+`HTML` `CSS` `JavaScript`
 
-**Serv-Saúde**
-Serviço web voltado para a área da saúde
-→ [ver repositório](https://github.com/Victordev373/Serv-Sa-de)
+## 🎯 Objetivo profissional
 
-**Projeto-FrontEnd-Lab**
-Laboratório de estudos de Front-End, do zero ao avançado
-→ [ver repositório](https://github.com/Victordev373/Projeto-FrontEnd-Lab)
+Buscando oportunidade como **Desenvolvedor Front-End Jr.**, **Analista de Sistemas** ou **Suporte/TI**, para aplicar e evoluir minhas habilidades em ambiente profissional.
 
-**Portfólio pessoal**
-Ainda no arco de construção — capítulo em breve.
+## 📬 Contato
 
-<br>
-
-## Status atual
+- **E-mail:** victordev373@gmail.com
+- **LinkedIn:** [/in/joão-victor-silva](https://www.linkedin.com/in/jo%C3%A3o-victor-silva-b97821345/)
+- **Instagram:** [@victor.prgm](https://www.instagram.com/victor.prgm)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Victordev373&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=ff2e6d&icon_color=00e5ff&text_color=e8e6e3&hide_rank=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Victordev373&hide_border=true&background=0a0e1a&ring=ff2e6d&fire=00e5ff&currStreakLabel=e8e6e3&sideLabels=e8e6e3&currStreakNum=e8e6e3&sideNums=e8e6e3&dates=8b93a7" width="49%"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victordev373&show_icons=true&theme=default&hide_title=true)
+
 </div>
-
-<br>
-
-## Próximo episódio
-
-Bater um papo sobre código, trocar ideia sobre o último anime da temporada, ou fechar um projeto:
-
-<p align="center">
-  <a href="mailto:victordev373@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e1a?style=flat-square&logo=gmail&logoColor=ff2e6d&labelColor=0a0e1a"/></a>
-  <a href="https://wa.me/5593991706598"><img src="https://img.shields.io/badge/WhatsApp-0a0e1a?style=flat-square&logo=whatsapp&logoColor=00e5ff&labelColor=0a0e1a"/></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-silva-b97821345"><img src="https://img.shields.io/badge/LinkedIn-0a0e1a?style=flat-square&logo=linkedin&logoColor=ffb703&labelColor=0a0e1a"/></a>
-  <a href="https://www.instagram.com/victor.prgm"><img src="https://img.shields.io/badge/Instagram-0a0e1a?style=flat-square&logo=instagram&logoColor=ff2e6d&labelColor=0a0e1a"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e1a,50:39104a,100:0a0e1a&height=90&section=footer" width="100%"/>
