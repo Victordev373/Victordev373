@@ -33,7 +33,7 @@ Atualmente desenvolvo sites e landing pages para clientes reais (agência de via
 Landing page responsiva para agência de viagens, com domínio próprio e foco em conversão.
 `HTML` `CSS` `JavaScript`
 
-### [Serve Saúde](https://github.com/Victordev373/serve-saude)
+### [Serve Saúde](https://github.com/Victordev373/ServSaude)
 Landing page para comércio de produtos hospitalares e laboratoriais, com foco em SEO local.
 `HTML` `CSS` `JavaScript`
 
